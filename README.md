@@ -10,7 +10,7 @@ Welcome to the React Text Post App repository! This simple React application all
   - [Installation](#installation)
 
 #demo
-https://github.com/Piyush5784/social-media-app/blob/main/src/assets/HomeImg.PNG
+![HomeImg](https://github.com/Piyush5784/social-media-app/assets/105655779/c3eed0a6-f3fe-478a-b64a-429cf1aa2aa8)
 
 ## Features
 
