@@ -3,15 +3,14 @@
 Welcome to the React Text Post App repository! This simple React application allows users to post text and view posts. It's a great project for learning and practicing React concepts.
 
 ## Table of Contents
-
+-[Demo](#demo)
 - [Features](#features)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 
-
-
-
+#demo
+https://github.com/Piyush5784/social-media-app/blob/main/src/assets/HomeImg.PNG
 
 ## Features
 
